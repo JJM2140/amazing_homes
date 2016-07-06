@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+.photo-description {
+  font: 12px cursive;
+  color: purple;
+}
+
+#logo {
+  background: #11ab05;
+}
+
+#logo h1 {
+  font-family: 'Lobster', cursive;
+}
+
+#logo h2 {
+  font-family: fantasy;
+  color: red;
+}
